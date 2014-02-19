@@ -8,6 +8,8 @@
            review="review.gerrithub.io" />
   <remote  name="tm"
            fetch="https://github.com/TheMuppets/" />
+  <remote  name="ljjehl"
+           fetch="https://github.com/ljjehl-XHD/" />
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/" />
   <remote  name="aokp"
@@ -44,6 +46,8 @@
   <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="device,flo" />
   <project path="device/asus/grouper" name="platform_device_asus_grouper" remote="th" revision="kitkat" groups="notdefault,device,grouper" />
   <project path="device/asus/tilapia" name="device_asus_tilapia" remote="th" revision="kitkat" groups="notdefault,device,tilapia" />
+  <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="ljjehl" revision="kitkat" groups="notdefault,device,endeavoru" />
+  <project path="device/htc/tegra3-common" name="android_device_htc_tegra3-common" remote="ljjehl" revision="kitkat" groups="notdefault,device,tegra3-common" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -504,7 +508,7 @@
   <project path="vendor/xenonhd" name="vendor_xenonhd" remote="th" revision="kitkat" />
   
   <!-- Manifest -->
-  <project path="platform_manifest" name="platform_manifest" remote="th" revision="kitkat" />
+  <project path="platform_manifest" name="platform_manifest" remote="ljjehl" revision="kitkat" />
 
   <!-- ThemeChooser -->
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="th" revision="kitkat" />
