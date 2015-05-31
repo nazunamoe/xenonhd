@@ -107,7 +107,7 @@
   <project path="external/deqp" name="platform/external/deqp" />
   <project path="external/curl" name="android_external_curl" remote="cm" revision="cm-12.1" />
   <project path="external/dexmaker" name="platform/external/dexmaker" groups="pdk-cw-fs" />
-  <project path="external/dhcpcd" name="android_external_dhcpcd" groups="pdk-cw-fs" remote="cm" revision="cm-12.1" />
+  <project path="external/dhcpcd" name="android_external_dhcpcd" groups="pdk-cw-fs" remote="th" revision="m-experimental" />
   <project path="external/doclava" name="platform/external/doclava" groups="pdk-cw-fs,tradefed" />
   <project path="external/dnsmasq" name="android_external_dnsmasq" groups="pdk" remote="cm" revision="cm-12.1" />
   <project path="external/droiddriver" name="platform/external/droiddriver" groups="pdk-cw-fs" />
