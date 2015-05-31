@@ -152,14 +152,14 @@
   <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" groups="pdk-cw-fs,qcom_msm8x26" />
   <project path="external/heimdall" name="android_external_heimdall" remote="cm" revision="cm-12.1" />
   <project path="external/htop" name="android_external_htop" remote="cm" revision="cm-12.1" />
-  <project path="external/icu" name="android_external_icu" groups="pdk" remote="cm" revision="cm-12.1" />
+  <project path="external/icu" name="android_external_icu" groups="pdk" remote="th" revision="m-experimental" />
   <project path="external/iproute2" name="platform/external/iproute2" groups="pdk" />
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" groups="pdk-cw-fs" />
-  <project path="external/iptables" name="android_external_iptables" groups="pdk-cw-fs" remote="cm" revision="cm-12.1"/>
+  <project path="external/iptables" name="android_external_iptables" groups="pdk-cw-fs" remote="th" revision="m=experimental"/>
   <project path="external/iputils" name="platform/external/iputils" groups="pdk-cw-fs" />
   <project path="external/JakeWharton/butterknife" name="android_external_JakeWharton_butterknife" remote="cm" revision="cm-12.1" />
   <project path="external/jack" name="platform/external/jack" groups="pdk-cw-fs" />
-  <project path="external/jarjar" name="android_external_jarjar" groups="pdk" remote="cm" revision="cm-12.1" />
+  <project path="external/jarjar" name="android_external_jarjar" groups="pdk" remote="th" revision="m-experimental" />
   <project path="external/javasqlite" name="platform/external/javasqlite" groups="pdk-cw-fs" />
   <project path="external/javassist" name="platform/external/javassist" groups="pdk-cw-fs" />
   <project path="external/jdiff" name="platform/external/jdiff" groups="pdk-cw-fs" />
@@ -167,7 +167,7 @@
   <project path="external/jhead" name="platform/external/jhead" groups="pdk" />
   <project path="external/jline" name="platform/external/jline" groups="notdefault,tradefed" />
   <project path="external/jmdns" name="platform/external/jmdns" groups="pdk-cw-fs" />
-  <project path="external/jpeg" name="android_external_jpeg" groups="pdk" remote="cm" revision="cm-12.1" />
+  <project path="external/jpeg" name="android_external_jpeg" groups="pdk" remote="th" revision="m-experimental" />
   <project path="external/jsilver" name="platform/external/jsilver" groups="pdk-cw-fs,tradefed" />
   <project path="external/jsmn" name="platform/external/jsmn" groups="pdk" />
   <project path="external/jsoncpp" name="platform/external/jsoncpp" groups="pdk-cw-fs" />
@@ -201,7 +201,7 @@
   <project path="external/libpcap" name="platform/external/libpcap" groups="pdk,pdk-cw-fs" />
   <project path="external/libphonenumbergoogle" name="android_external_libphonenumbergoogle" remote="cm" revision="cm-12.1" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" groups="pdk-cw-fs" />
-  <project path="external/libpng" name="android_external_libpng" groups="pdk" remote="cm" revision="cm-12.1" />
+  <project path="external/libpng" name="android_external_libpng" groups="pdk" remote="th" revision="m-experimental" />
   <project path="external/libppp" name="android_external_libppp" remote="cm" revision="cm-12.1" />
   <project path="external/libseccomp-helper" name="platform/external/libseccomp-helper" groups="pdk-cw-fs" />
   <project path="external/libselinux" name="android_external_libselinux" groups="pdk" remote="cm" revision="cm-12.1" />
