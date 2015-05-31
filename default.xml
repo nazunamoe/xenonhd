@@ -278,7 +278,6 @@
   <project path="external/sqlite" name="android_external_sqlite" groups="pdk" remote="cm" revision="cm-12.1" />
   <project path="external/square/dagger" name="android_external_square_dagger" remote="cm" revision="cm-12.1" />
   <project path="external/square/javawriter" name="android_external_square_javawriter" remote="cm" revision="cm-12.1" />
-  <project path="external/srec" name="platform/external/srec" groups="pdk-cw-fs" />
   <project path="external/srtp" name="platform/external/srtp" groups="pdk-cw-fs" />
   <project path="external/stagefright-plugins" name="android_external_stagefright-plugins" remote="cm" revision="cm-12.1" />
   <project path="external/strace" name="android_external_strace" groups="pdk-cw-fs" remote="cm" revision="cm-12.1" />
