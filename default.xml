@@ -198,13 +198,13 @@
   <project path="external/libpng" name="android_external_libpng" groups="pdk" remote="th" revision="m-experimental" />
   <project path="external/libppp" name="android_external_libppp" remote="cm" revision="cm-12.1" />
   <project path="external/libseccomp-helper" name="platform/external/libseccomp-helper" groups="pdk-cw-fs" />
-  <project path="external/libselinux" name="android_external_libselinux" groups="pdk" remote="cm" revision="cm-12.1" />
-  <project path="external/libsepol" name="android_external_libsepol" groups="pdk" remote="cm" revision="cm-12.1" />
+  <project path="external/libselinux" name="android_external_libselinux" groups="pdk" remote="th" revision="m-experimental" />
+  <project path="external/libsepol" name="android_external_libsepol" groups="pdk" remote="th" revision="m-experimental" />
   <project path="external/libssh2" name="platform/external/libssh2" groups="pdk-cw-fs" />
   <project path="external/libtar" name="android_external_libtar" remote="cm" revision="cm-12.1" />
   <project path="external/libtruezip" name="android_external_libtruezip" remote="cm" revision="cm-12.1" />
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" />
-  <project path="external/libusb" name="android_external_libusb" remote="cm" revision="cm-12.1" />
+  <project path="external/libusb" name="android_external_libusb" remote="th" revision="m-experimental" />
   <project path="external/libusbx" name="android_external_libusbx" remote="cm" revision="cm-12.1" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" groups="pdk-cw-fs" />
   <project path="external/libutf" name="platform/external/libutf" groups="pdk-cw-fs" />
